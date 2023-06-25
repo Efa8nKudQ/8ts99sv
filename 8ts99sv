@@ -1,0 +1,7 @@
+echo "# 8ts99sv" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Efa8nKudQ/8ts99sv.git
+git push -u origin main
